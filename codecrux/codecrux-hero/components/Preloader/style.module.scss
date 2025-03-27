@@ -1,0 +1,36 @@
+
+.introduction{
+    height: 100vh;
+    width: 100vw;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: fixed;
+    z-index: 99;
+    background-color:#010428;
+    svg{
+        position: absolute;
+        top: 0;
+        width: 100%;
+        height: calc(100% + 300px);
+        path{
+            fill: #010428;
+        }
+    }
+    p{
+        display: flex;
+        color: rgb(255, 252, 252);
+        font-size: 42px;
+        align-items: center;
+        position: absolute;
+        z-index: 1;
+        span{
+            display: block;
+            width: 10px;
+            height: 10px;
+            background-color: white;
+            border-radius: 50%;
+            margin-right: 10px;
+        }
+    }
+}
