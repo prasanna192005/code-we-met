@@ -2,6 +2,8 @@
 
 **Job We Met**, powered by **codeCRUX**, is an all-in-one platform that integrates job applications, live interviews, and DSA learning into a seamless experience. Whether you're a recruiter looking for top talent or a candidate preparing for coding interviews, this platform has everything you need!  
 
+🔗 **[Watch the Demo Video](https://www.youtube.com/watch?v=dZB7tJsGHVs)**  
+
 ---  
 
 ## 🌟 Key Features  
@@ -35,13 +37,6 @@
 - **Achievements & Leaderboards** – Compete and showcase your skills!  
 - **Customized Learning Paths** – Personalized recommendations based on strengths and weaknesses.  
 
----  
-
-
-
-
-
- 
+---
 
 🚀 **Get started with Job We Met today and level up your coding & hiring experience!** 🏆🔥  
-
