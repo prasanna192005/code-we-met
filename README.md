@@ -1,4 +1,4 @@
-# 🚀 Job We Met – The Ultimate Hiring & DSA Playground  
+# 🚀 Code We Met – The Ultimate Hiring & DSA Playground  
 
 **Job We Met**, powered by **codeCRUX**, is an all-in-one platform that integrates job applications, live interviews, and DSA learning into a seamless experience. Whether you're a recruiter looking for top talent or a candidate preparing for coding interviews, this platform has everything you need!  
 
